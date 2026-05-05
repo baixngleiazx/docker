@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+registry:2
