@@ -1,1 +1,1 @@
-amazoncorretto:8u402-alpine
+bladex/sentinel-dashboard:1.8.6
