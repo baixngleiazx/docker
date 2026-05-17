@@ -1,1 +1,1 @@
-seataio/seata-server:1.7.1
+logstash:7.14.0
