@@ -1,1 +1,1 @@
-logstash:7.14.0
+redis/redisinsight:latest
